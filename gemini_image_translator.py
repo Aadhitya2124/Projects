@@ -5,7 +5,7 @@ import argparse
 
 # Configure your API key
 # Using the provided API key directly
-API_KEY = "AIzaSyCfGoJk0S2QS84mocHI6n1sESUYV_YQIXk"
+API_KEY = " Google API key here"
 
 # Configure the Gemini API
 genai.configure(api_key=API_KEY)
